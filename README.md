@@ -1,163 +1,143 @@
-### archived in favor of v2 release soon ;)
+<div align="center">
+  <img src="https://i.postimg.cc/yxF8rjXG/shamim-bhuiyan.webp" alt="Banner" width="800"/>
+</div>
+
+<h1 align="center">🌟 Welcome to My GitHub Profile! 🌟</h1>
+
+<p align="center">
+  <b>Founder & CEO of <a href="https://your-website-link.com">SEO Insight Hub</a></b><br>
+  🚀 <i>Semantic SEO Specialist | Digital Marketer | Frontend Web Developer</i> 🚀<br>
+  <b>Helping Businesses Achieve Sustainable Online Growth with Data-Driven Strategies</b>
+</p>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)  
+[![Portfolio](https://img.shields.io/badge/Visit-Portfolio-blue?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio-link.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)
+[![Facebook](https://img.shields.io/badge/Connect-Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/your-facebook-profile)
+[![Instagram](https://img.shields.io/badge/Follow-Insta-blue?style=for-the-badge&logo=instagram)](https://www.instagram.com/your-instagram-profile)
+[![Medium](https://img.shields.io/badge/Read-Medium-orange?style=for-the-badge&logo=medium)](https://medium.com/@your-medium-profile)
+[![Twitter](https://img.shields.io/badge/Follow-Twitter-lightblue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-profile)
+[![Quora](https://img.shields.io/badge/Connect-Quora-red?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/your-quora-profile)
+[![YouTube](https://img.shields.io/badge/Subscribe-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/c/your-youtube-channel)
+
+</div>
 
-<img src="https://i.imgur.com/eA6clZr.png">
+---
+
+## 💡 About Me  
 
-# Gitfolio 
-[![Tweet](https://img.shields.io/twitter/url/https/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=personal%20website%20and%20a%20blog%20for%20every%20github%20user%20@imfunnieee%20&url=https://github.com/imfunniee/gitfolio) ![GitHub release](https://img.shields.io/github/release/imfunniee/gitfolio.svg?style=popout-square) ![npm](https://img.shields.io/npm/dm/gitfolio.svg?style=popout-square) ![GitHub top language](https://img.shields.io/github/languages/top/imfunniee/gitfolio.svg?style=popout-square) ![GitHub last commit](https://img.shields.io/github/last-commit/imfunniee/gitfolio.svg?style=popout-square) ![GitHub](https://img.shields.io/github/license/imfunniee/gitfolio.svg?style=popout-square) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+Hi, I’m **Mh Shamim Bhuiyan**, a passionate professional with expertise in **Semantic SEO**, **Content Creation**, **Frontend Web Development**, and **Digital Marketing**. My journey started in **2011**, and today, I help businesses succeed online with tailored, **data-driven solutions** that drive **real, measurable results**.
+
+- 🌱 **Always learning**: Exploring **AI in SEO**, **Next.js**, **UX/UI design**, and **advanced digital marketing**.  
+- 🎯 **Mission**: Empowering **small-to-medium businesses and startups** to grow sustainably through **effective digital strategies**.  
+
+---
+
+## 🚀 My Expertise  
 
-### personal website + blog for every github user
+### **🔍 SEO & Digital Marketing**  
+- **On-Page & Off-Page SEO**  
+- **Technical SEO** with **Semantic Optimization**  
+- **Content Strategy** and **SEO Writing**  
+- **Link Building & Outreach**  
+- **Keyword Research** & **Competitive Analysis**  
+- **Conversion Rate Optimization** (CRO)
 
-Gitfolio will help you get started with a portfolio website where you could showcase your work + a blog that will help you spread your ideas into real world.
+### **🌐 Frontend Web Development**  
+- **Languages**: HTML5, CSS3, JavaScript (ES6+)  
+- **Frameworks**: React.js, Next.js, Bootstrap, Tailwind CSS  
+- **Web Optimization**: **Core Web Vitals** & **Performance Tuning**  
+- **CMS**: WordPress (Custom Development & Optimization)  
+- **API Integrations**: REST APIs, GraphQL
 
-Check out this [live demo](https://imfunniee.github.io/gitfolio/) to see gitfolio in action.
+### **📈 Digital Marketing & Analytics**  
+- **Google Analytics** & **Google Search Console**  
+- **SEO Reporting & Metrics Analysis**  
+- **Social Media Strategy**  
+- **Google Ads** & **Facebook Ads** Campaigns  
+- **Email Marketing** (e.g., Mailchimp, ConvertKit)  
+- **A/B Testing & CRO Tools**
 
-# Getting Started
+---
 
-### Let's Install
+## 🛠 Tools & Skills  
 
-Install gitfolio
+<div align="center">
 
-```sh
-npm i gitfolio -g
-```
+### **Languages & Frameworks**  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Let's Build
+### **SEO & Marketing Tools**  
+![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/-Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Ahrefs](https://img.shields.io/badge/-Ahrefs-2E5B9E?style=for-the-badge&logoColor=white)
+![SEMRush](https://img.shields.io/badge/-SEMRush-FA9500?style=for-the-badge&logoColor=white)
+![Moz](https://img.shields.io/badge/-Moz-2E3A87?style=for-the-badge&logo=moz&logoColor=white)
+![Yoast SEO](https://img.shields.io/badge/-Yoast_SEO-FFB700?style=for-the-badge&logo=yoast&logoColor=white)
 
-Using the UI
+### **Design & Collaboration**  
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/-Trello-0079D3?style=for-the-badge&logo=trello&logoColor=white)
 
-```sh
-$ gitfolio ui
-```
+### **Development Tools**  
+![Visual Studio Code](https://img.shields.io/badge/-VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-> Tip: You can use ui to create new blogs and for updating your folio too.
+</div>
 
-or
+---
 
-```sh
-gitfolio build <username>
-```
+## 🌟 Featured Projects  
 
-`<username>` is your username on github. This will build your website using your GitHub username and put it in the `/dist` folder.
+### **Frontend Web Development & WordPress**  
 
-To run your website use `run` command, Default port is 3000
+- **[Portfolio Website](https://your-portfolio-link.com)**  
+  🚀 **What I Did**: Designed a **responsive portfolio** showcasing my skills, with dynamic animations and mobile-first design.  
+  💡 **Tech Stack**: React.js, Tailwind CSS, HTML5, CSS3  
+  ![Portfolio Website](https://your-project-image-link.com/portfolio-website.jpg)
 
-```sh
-gitfolio run -p [port]
-```
+- **[Agency Website](https://agency-website-link.com)**  
+  🚀 **What I Did**: Developed a professional, high-performance website for a **digital marketing agency**.  
+  💡 **Tech Stack**: WordPress, Custom PHP Theme, SEO Optimization  
+  ![Agency Website](https://your-project-image-link.com/agency-website.jpg)
 
-🎉 Congrats, you just made yourself a personal website!
+- **[Restaurant Website](https://restaurant-website-link.com)**  
+  🚀 **What I Did**: Built a **restaurant website** with menu integration, reservations, and location maps.  
+  💡 **Tech Stack**: WordPress, Custom Plugins, JavaScript  
+  ![Restaurant Website](https://your-project-image-link.com/restaurant-website.jpg)
 
-### Let's Customize
+---
 
-#### Forks
+### **Semantic SEO & Content Writing**  
 
-To include forks on your personal website just provide `-f` or `--fork` argument while building
+- **[E-Commerce SEO](https://ecommerce-seo-project-link.com)**  
+  🚀 **What I Did**: Increased organic traffic for a **fashion e-commerce store** by 200% using Semantic SEO.  
+  💡 **Tools Used**: SEMrush, Google Search Console  
+  ![E-Commerce SEO](https://your-project-image-link.com/ecommerce-seo.jpg)
 
-```sh
-$ gitfolio build <username> -f
-```
+- **[Blog SEO](https://blog-seo-project-link.com)**  
+  🚀 **What I Did**: Enhanced rankings for a **lifestyle blog** using advanced keyword research and optimization.  
+  💡 **Tools Used**: Yoast SEO, Google Analytics  
+  ![Blog SEO](https://your-project-image-link.com/blog-seo.jpg)
+---
+### 🌟 Let’s Work Together  
 
-#### Sorting Repos
+👋 I’m always looking for opportunities to help businesses grow! Whether you need **a standout website**, **SEO strategies**, or **digital marketing expertise**, I’d love to collaborate.
 
-To sort repos provide `--sort [sortBy]` argument while building. Where `[sortBy]` can be `star`, `created`, `updated`, `pushed`,`full_name`. Default: `created`
+Feel free to **[connect with me on LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)** or **drop a message here**.
 
-```sh
-$ gitfolio build <username> --sort star
-```
-
-#### Ordering Repos
-
-To order the sorted repos provide `--order [orderBy]` argument while building. Where `[orderBy]` can be `asc` or `desc`. Default: `asc`
-
-```sh
-$ gitfolio build <username> --sort star --order desc
-```
-
-#### Customize Themes
-
-Themes are specified using the `--theme [theme-name]` flag when running the `build` command. The available themes are
-
-- `light`
-- `dark`
-
-> TODO: Add more themes
-
-For example, the following command will build the website with the dark theme
-
-```sh
-$ gitfolio build <username> --theme dark
-```
-
-#### Customize background image
-
-To customize the background image just provide `--background [url]` argument while building
-
-```sh
-$ gitfolio build <username> --background https://images.unsplash.com/photo-1557277770-baf0ca74f908?w=1634
-```
-
-You could also add in your custom CSS inside `index.css` to give it a more personal feel.
-
-#### Add Social Media links on your profile
-
-Twitter, LinkedIn, Medium & Dribbble links to your profile while building
-
-```sh
-gitfolio build <username> --twitter <twitter_username> --linkedin <linkedin_username> --medium <medium_username> --dribbble <dribbble_username>
-```
-
-### Let's Publish
-
-Head over to GitHub and create a new repository named `username.github.io`, where username is your username. Push the files inside`/dist` folder to repo you just created.
-
-Go To `username.github.io` your site should be up!!
-
-### Updating
-
-To update your info, simply run
-
-```sh
-$ gitfolio update
-```
-
-or use the `Update` options in gitfolio's UI
-
-This will update your info and your repository info.
-
-To Update background or theme you need to run `build` command again.
-
-### Add a Blog
-
-To add your first blog use the UI.
-
-```sh
-$ gitfolio ui
-```
-
-This will open up a UI page and you can click on `New Blog` to create a new blog. Once you are done writing your blog you can hit the `Create Blog`.
-
-This will create a blog inside `./dist/blog` folder.
-
-Look for success or error in your terminal.
-
-This also adds content to `blog.json` file. This file helps in showcasing your blogs on your personal website as [cards](https://imfunniee.github.io/gitfolio/#blog_section). You could customize the JSON object that corresponds your current blog.
-
-Blog Demo? [here](https://imfunniee.github.io/gitfolio/blog/my-first-post/)
-
-Blog's default JSON Format
-
-```
-{
-  "url_title": "my-first-blog", // the title you provide while creating a new blog, this appears in url
-  "title": "Lorem ipsum dolor sit amet", // main title of blog
-  "sub_title": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.", // sub-title of blog
-  "top_image": "https://images.unsplash.com/photo-1553748024-d1b27fb3f960?w=1450", // main image of blog
-  "visible": true // don't worry about this
-}
-```
-
-### Follow me on twitter for more updates [@imfunnieee](https://twitter.com/imfunnieee)
-
-### License
-
-![GitHub](https://img.shields.io/github/license/imfunniee/gitfolio.svg?style=popout-square)
+---
